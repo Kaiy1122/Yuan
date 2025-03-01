@@ -1,0 +1,16 @@
+body {
+    background: url('https://i.imgur.com/TGUdgvw.gif') no-repeat center center fixed !important;
+    background-size: cover !important;
+}
+
+/* Làm trong suốt thanh bên phải */
+.membersWrap-3NUR2t {
+    background: transparent !important;
+}
+
+/* Giữ ảnh nền đồng nhất */
+.theme-dark .chat-3bRxxu,
+.theme-dark .membersWrap-3NUR2t {
+    background: url('https://i.imgur.com/TGUdgvw.gif') no-repeat center center fixed !important;
+    background-size: cover !important;
+}
